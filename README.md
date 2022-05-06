@@ -14,5 +14,5 @@ Project is created with:
 To run this project, go to:
 
 ```
-.\WPFCRUD\Build app\StackTakingApp.lnk
+.\WPFCRUD\Build app\StockTakingApp.lnk
 ```
