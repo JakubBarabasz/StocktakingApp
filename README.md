@@ -1,0 +1,1 @@
+# Aplikaca do przeprowadzania renamentu
